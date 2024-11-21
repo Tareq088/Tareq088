@@ -2,6 +2,12 @@
 #### Web Developer
 (https://scontent.fdac24-5.fna.fbcdn.net/v/t1.6435-9/69031471_2343222289263303_7084841681974984704_n.jpg?stp=dst-jpg_s960x960&_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEB6EIrL_DsIBJsMR2z4uA3OLC-nKNI4ak4sL6co0jhqTat1I0Qyp2qV24ZfnRypykhmno8uhPcVNVS-I6hye0W&_nc_ohc=82QKI9wbzmgQ7kNvgGNbodt&_nc_zt=23&_nc_ht=scontent.fdac24-5.fna&_nc_gid=A-2iBo2ltuB5NFHyXf7FqRs&oh=00_AYDwOb7wfRLlTd1ztLtrHcR_L3LJCrIi5G3np1YXOvtdkQ&oe=6766AFAA)
 
+### Hi there 👋, my name is Arturs
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://scontent.fdac24-5.fna.fbcdn.net/v/t1.6435-9/69031471_2343222289263303_7084841681974984704_n.jpg?stp=dst-jpg_s960x960&_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEB6EIrL_DsIBJsMR2z4uA3OLC-nKNI4ak4sL6co0jhqTat1I0Qyp2qV24ZfnRypykhmno8uhPcVNVS-I6hye0W&_nc_ohc=82QKI9wbzmgQ7kNvgGNbodt&_nc_zt=23&_nc_ht=scontent.fdac24-5.fna&_nc_gid=A-2iBo2ltuB5NFHyXf7FqRs&oh=00_AYDwOb7wfRLlTd1ztLtrHcR_L3LJCrIi5G3np1YXOvtdkQ&oe=6766AFAA)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
 I am a Front Web Developer who loves to deliver works with 100% client satisfaction . I am very much dedicative to solve real-world problems. I am very much enthusiastic to prepare responsive web design using HTML. CSS, JavaScript, jQuery and Bootstrap.
 
 
