@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Tareq Rahman
 #### Web Developer
-<img src="https://github.com/Tareq088/Tareq088/blob/main/Banner.jpg">
+<img src="https://github.com/Tareq088/Tareq088/blob/main/Banner.jpg" style="height: 50%;">
 # 💫 About Me:
 I am a Front Web Developer who loves to deliver works with 100% client satisfaction . I am very much dedicative to solve real-world problems. I am very much enthusiastic to prepare responsive web design using HTML. CSS, tailwindCss, daisyUI,JavaScript, mongoDB, firebase , jQuery and Bootstrap.
 
