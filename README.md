@@ -2,7 +2,7 @@
 #### Web Developer
 ![Banner](https://www.shutterstock.com/search/coding-background)
 # 💫 About Me:
-I am a Front Web Developer who loves to deliver works with 100% client satisfaction . I am very much dedicative to solve real-world problems. I am very much enthusiastic to prepare responsive web design using HTML. CSS, JavaScript, jQuery and Bootstrap.
+I am a Front Web Developer who loves to deliver works with 100% client satisfaction . I am very much dedicative to solve real-world problems. I am very much enthusiastic to prepare responsive web design using HTML. CSS, tailwindCss, daisyUI,JavaScript, mongoDB, firebase , jQuery and Bootstrap.
 
 
 
